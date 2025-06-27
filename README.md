@@ -1,14 +1,13 @@
 <div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+  <img height="150" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGU1c3RscTV6b3JiNWFpZmgyNm45dDlnM2tnaTNxZGJsc2t4dHhobSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Ws6T5PN7wHv3cY8xy8/giphy.gif"  />
 </div>
 
 ###
 
 <div align="center">
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="whatsapp logo"  />
+  <a href="https://www.instagram.com/teukuhilal_/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
+  </a>
 </div>
 
 ###
@@ -61,6 +60,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/maurodesouzah/maurodesouzah/output/snake.svg" alt="Snake animation" />
+<p align="left">![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31lc36ybz3vtd6sgefjti74w4xpu&count={count})</p>
 
 ###
