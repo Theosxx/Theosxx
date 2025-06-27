@@ -60,6 +60,4 @@
 
 ###
 
-<p align="left">https://spotify-recently-played-readme.vercel.app/api?user=31lc36ybz3vtd6sgefjti74w4xpu&count=5</p>
-
 ###
